@@ -17,25 +17,25 @@ Requirement Objective:
 Use algorithms and statistical analysis to create ML models on data and make predictions about new data without being explicitly programmed to do so.
 
 Project Requirements:
-;; Identify a problem worth solving, analyzing, or visualizing
-;; Use ML in the context of technologies learned 
-;; Use Scikit-Learn: machine learning in Python
+Identify a problem worth solving, analyzing, or visualizing
+Use ML in the context of technologies learned 
+Use Scikit-Learn: machine learning in Python
 
 Data Stages:
-;; Collect data 
-;; Import data
-;; Clean data 
-;; Split data into train/test or cross validation sets 
-;; Transform Data
+Collect data 
+Import data
+Clean data 
+Split data into train/test or cross validation sets 
+Transform Data
 
 MACHINE LEARNING OVERVIEW 
 
 Machine Learning is the study of computer programs that leverage algorithms and statistical models to learn through inference and patterns without being explicitly programed
 
 Types of Machine Learning:
-;; Supervised Machine Learning - Machine learns from training data
-;; Unsupervised Machine Learning - No training data is required 
-;; Reinforcement Learning - Machine learns on its own 
+Supervised Machine Learning - Machine learns from training data
+Unsupervised Machine Learning - No training data is required 
+Reinforcement Learning - Machine learns on its own 
 
 
 This project will utilize Supervised Machine Learning which entails training a predictive model on historical data with predefined target answers.
