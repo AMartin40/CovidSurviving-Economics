@@ -1,11 +1,8 @@
-# SurvivingCovid19-The Economic Fight 
-
-### THE ECONOMIC FIGHT 
+# SURVIVING COVID - THE ECONOMIC FIGHT 
 
 After a record-setting 2019, the US economy started off 2020 with another strong job market. In January, job gains beat expectations, wages grew above 3%, and unemployment rates remained at or near historic lows. 
 
 Unfortunately, all of this changed drastically. We are currently living in a global pandemic, this economic crisis unleashed by the outbreak of COVID-19 is hurting economies, regardless of income level. With unemployment on the rise and state by state reopening’s; we are now in a survival mode climate.  
-
 
 
 
