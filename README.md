@@ -14,9 +14,9 @@ This project will be based on the analysis of unemployment data in the current C
 Utilizing Machine Learning and leveraging unemployment data from the U.S. Bureau of Labor Statistics (BLS), we want to analyze the impacted of the unemployment rate in New York, California, Texas and Florida and identify the correlation and prediction of single-family home sales prices.
 
 ### PROJECT REQUIREMENTS:
-Identify a problem worth solving, analyzing, or visualizing
-Use ML in the context of technologies learned 
-Use Scikit-Learn: machine learning in Pytho
+ * Identify a problem worth solving, analyzing, or visualizing
+ * Use ML in the context of technologies learned 
+ * Use Scikit-Learn: machine learning in Python
 
 ### REQUIREMENT OBJECTIVE:
 Use algorithms and statistical analysis to create ML models on data and make predictions about new data without being explicitly programmed to do so.
@@ -31,7 +31,7 @@ Use algorithms and statistical analysis to create ML models on data and make pre
 # MACHINE LEARNING OVERVIEW 
 Machine Learning is the study of computer programs that leverage algorithms and statistical models to learn through inference and patterns without being explicitly programed
 
-   * Types of Machine Learning:
+### Types of Machine Learning:
    * Supervised Machine Learning - Machine learns from training data
    * Unsupervised Machine Learning - No training data is required 
    * Reinforcement Learning - Machine learns on its own 
