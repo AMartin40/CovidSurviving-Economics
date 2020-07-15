@@ -13,7 +13,7 @@ This project will be based on the analysis of unemployment data in the current C
 Utilizing Machine Learning and leveraging unemployment data from the U.S. Bureau of Labor Statistics (BLS), 
 we will analyze the impacted of the current unemployment rate in New York, California, Texas and Florida as it relates to the correlation and prediction of single-family home sales prices for the identified regions. Some of the questions that arose during the data collection process were; Will a increase in unemployment negatively affect the real estate market in that region? If the real estate market is affected negatively will there be a change in the coming months? Will the impact differ based on education level? Will one ethnicity be impacted more than others? 
 
-To accuratly answer these questions data from bls.gov and __________________; will be measured from 2019 to 2020 and we will utilize Supervised Machine Learning (which entails training a predictive model on historical data) to target answers.
+To accuratly answer these questions data from bls.gov and zillow.com; will be measured from 2019 to 2020 and we will utilize Supervised Machine Learning (which entails training a predictive model on historical data) to target answers.
 
 ### PROJECT REQUIREMENTS:
  * Identify a problem worth solving, analyzing, or visualizing
