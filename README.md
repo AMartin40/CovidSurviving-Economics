@@ -32,7 +32,6 @@ Use algorithms and statistical analysis to create ML models on data and make pre
 ________________________________________________________________________________________________________________________________________________________________________________  
 
 
-
 # MACHINE LEARNING OVERVIEW 
 Machine Learning is the study of computer programs that leverage algorithms and statistical models to learn through inference and patterns without being explicitly programed
 
@@ -43,7 +42,9 @@ Machine Learning is the study of computer programs that leverage algorithms and 
 
 ### Dataset Preparation and Preprocessing 
 
-Leveraging unemployment data from the U.S. Bureau of Labor Statistics (BLS) and the most recent real estate data for single family home prices on zillow.com; to determine pre-covid results we measured data from January through May of 2019. Utilize Supervised Machine Learning  to target answers. 
+Leveraging unemployment data from the U.S. Bureau of Labor Statistics (BLS) and the most recent real estate data for single family home prices on zillow.com; we measured data from January through May of 2019 and January through May of 2020. To accuratly determine if a spike in unemployment will negatively affect the single home prices we utilized Supervised Machine Learning to target the results.
+
+
 
 
 
