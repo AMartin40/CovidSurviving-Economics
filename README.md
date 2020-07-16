@@ -5,7 +5,6 @@ After a record-setting 2019, the US economy started off 2020 with another strong
 Unfortunately, all of this changed drastically. We are currently living in a global pandemic, this economic crisis unleashed by the outbreak of COVID-19 is hurting economies, regardless of income level. With unemployment on the rise and state by state reopening’s; we are now in a survival mode climate.  
 
 
-
 # PROJECT OVERVIEW
 This project will be based on the analysis of unemployment data in the current COVID-19 climate and the impact on single-family home pricing by region.
 
@@ -30,6 +29,10 @@ Use algorithms and statistical analysis to create ML models on data and make pre
    * Split data into train/test or cross validation sets 
    * Transform Data
 
+________________________________________________________________________________________________________________________________________________________________________________  
+
+
+
 # MACHINE LEARNING OVERVIEW 
 Machine Learning is the study of computer programs that leverage algorithms and statistical models to learn through inference and patterns without being explicitly programed
 
@@ -38,6 +41,9 @@ Machine Learning is the study of computer programs that leverage algorithms and 
    * Unsupervised Machine Learning - No training data is required 
    * Reinforcement Learning - Machine learns on its own 
 
+### Dataset Preparation and Preprocessing 
+
+Leveraging unemployment data from the U.S. Bureau of Labor Statistics (BLS) and the most recent real estate data for single family home prices on zillow.com; to determine pre-covid results we measured data from January through May of 2019. Utilize Supervised Machine Learning  to target answers. 
 
 
 
